@@ -1,3 +1,13 @@
 .navbarTitle{
     color:whitesmoke;
+} 
+
+button{
+    background-color: maroon;
+    border-radius: 25px;
+    border: 2px solid;
+    padding: 20px;
+    width: 200px;
+    height: 100px;
+    color:whitesmoke;
 }
