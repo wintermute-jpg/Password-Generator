@@ -1,7 +1,7 @@
 .navbarTitle{
     color:whitesmoke;
 } 
-
+ 
 button{
     background-color: maroon;
     border-radius: 25px;
@@ -11,3 +11,21 @@ button{
     height: 100px;
     color:whitesmoke;
 }
+
+body{
+    background-color: grey;
+}
+
+.textStuff{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    border: 2px dashed grey;
+    padding: 20px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+}
+
