@@ -23,9 +23,11 @@
                     <div class="textStuff">
                         <h3>A Splendid Password Generator My Good Man</h3>
                         <br />
-                        <input type="text" id="display">
+                        <textarea readonly id="passwordSec" placeholder="One Password Coming Up">
+
+                        </textarea>
                         <br />
-                        <button onclick="generate()">Generate Password</button>
+                        <button onclick="generate()" id="generateBtn">Generate Password</button>
                         <button onclick="copy()">Copy to Clipboard</button>
                     </div>
                 </div>
